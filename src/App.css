@@ -28,6 +28,27 @@
   color: #61dafb;
 }
 
+Nav ul {
+  display: flex;
+}
+
+Nav ul li {
+  margin-left: 3rem;
+}
+
+p {
+  margin: 3rem;
+}
+
+.courseList {
+  display: flex;
+  justify-content: center;
+}
+
+.courseList div {
+  margin: 1rem;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
